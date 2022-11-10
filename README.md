@@ -26,6 +26,7 @@ From my infancy till now, I had a lot of interest in computers and electronic de
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 - C Programming
 - PHP
 - MySQL
