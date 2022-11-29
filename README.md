@@ -40,8 +40,4 @@ From my infancy till now, I had a lot of interest in computers and electronic de
 - WordPress Plugin Development
 - Ready to learn anything else...
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jilani53&show_icons=true&locale=en&layout=compact" alt="jilani53" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jilani53&show_icons=true&locale=en" alt="jilani53" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jilani53&" alt="jilani53" /></p>
