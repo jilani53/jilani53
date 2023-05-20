@@ -35,7 +35,6 @@ From my infancy till now, I had a lot of interest in computers and electronic de
 - HTML5
 - CSS3
 - Sass
-- C Programming
 - Bootstrap 5x
 - WordPress Theme Development
 - WordPress Plugin Development
