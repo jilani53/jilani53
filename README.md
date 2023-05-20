@@ -27,7 +27,7 @@ From my infancy till now, I had a lot of interest in computers and electronic de
 
 <h3 align="left">Languages and Tools:</h3>
 
-- C Programming
+- WordPress
 - PHP
 - MySQL
 - JavaScript
@@ -35,6 +35,7 @@ From my infancy till now, I had a lot of interest in computers and electronic de
 - HTML5
 - CSS3
 - Sass
+- C Programming
 - Bootstrap 5x
 - WordPress Theme Development
 - WordPress Plugin Development
