@@ -32,6 +32,7 @@ From my infancy till now, I had a lot of interest in computers and electronic de
 - JavaScript
 - React
 - Bootstrap 5x
+- WordPress REST API
 - WordPress Theme Development
 - WordPress Plugin Development
 - Ready to learn anything else...
