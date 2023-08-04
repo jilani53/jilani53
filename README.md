@@ -27,7 +27,6 @@ From my infancy till now, I had a lot of interest in computers and electronic de
 
 <h3 align="left">Languages and Tools:</h3>
 
-- WordPress
 - PHP
 - MySQL
 - JavaScript
