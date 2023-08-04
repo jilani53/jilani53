@@ -32,9 +32,6 @@ From my infancy till now, I had a lot of interest in computers and electronic de
 - MySQL
 - JavaScript
 - React
-- HTML5
-- CSS3
-- Sass
 - Bootstrap 5x
 - WordPress Theme Development
 - WordPress Plugin Development
