@@ -19,7 +19,7 @@ From my infancy till now, I had a lot of interest in computers and electronic de
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/jilani_pabel" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="hackerrank" height="30" width="40" />HackerRank</a>
+<a href="https://www.hackerrank.com/jilani_pabel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" alt="hackerrank" height="30" width="40" />HackerRank</a>
 <a href="https://twitter.com/jilani_pabel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jilani_pabel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jilaniahmed53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jilaniahmed53" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5214112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5214112" height="30" width="40" /></a>
