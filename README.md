@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jilani Ahmed.</h1>
 <h3>Web Developer & WordPress Enthusiast.</h3>
 
-From my infancy till now, I had a lot of interest in computers and electronic devices. These interests lead me to the programming life I am living right now. Since then, I have been very interested in completing my graduation in computer science. I love to develop innovative tools to make powerful small businesses around the world. WordPress content management system is my cup of tea. I love spending time with my friends and sometimes love to walk alone on the quiet street. I want to get more experienced and skilled in the sectors I am working in right now. So, I tend to keep myself busy with skill development.
+From a young age, I have been fascinated by computers and electronic devices, which naturally led me to a life of programming. This passion fueled my decision to pursue a degree in computer science. I love creating innovative tools that empower small businesses worldwide, with WordPress being my go-to platform. Beyond coding, I enjoy generating fresh ideas while immersing myself in peaceful surroundings. Whether it’s walking barefoot on grass or along quiet, unpaved roads, I find inspiration and tranquility in green nature.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jilani53&label=Profile%20views&color=0e75b6&style=flat" alt="jilani53" /> </p>
 
