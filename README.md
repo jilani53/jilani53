@@ -7,9 +7,9 @@ From a young age, I have been fascinated by computers and electronic devices, wh
 
 - 🔭 I’m currently working on **BanyanTheme, CodeIdem and TechIdem.**
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **DSA, JavaScript, React**
 
-- 🤝 I’m looking for help with **WordPress gutenberg block development.**
+- 🤝 I’m looking for help with **Mastering REST API development and creating dynamic Gutenberg blocks in WordPress using the Interactivity API.**
 
 - 👨‍💻 All of my projects are available at [https://banyanthemes.com/](https://banyanthemes.com/)
 
