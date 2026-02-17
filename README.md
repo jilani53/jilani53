@@ -32,7 +32,6 @@ From a young age, I have been fascinated by computers and electronic devices, wh
 - MySQL
 - JavaScript
 - React
-- Bootstrap 5x
 - WordPress REST API
 - WordPress Theme Development
 - WordPress Plugin Development
