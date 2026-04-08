@@ -11,8 +11,6 @@ From a young age, I have been fascinated by computers and electronic devices, wh
 
 - 🤝 I’m looking for help with **Mastering REST API development and creating dynamic Gutenberg blocks in WordPress using the Interactivity API.**
 
-- 👨‍💻 All of my projects are available at [https://banyanthemes.com/](https://banyanthemes.com/)
-
 - 📝 I regularly write articles on [https://techidem.com/](https://techidem.com/)
 
 - 📫 How to reach me **jilani.pabel@gmail.com**
